@@ -1,3 +1,10 @@
+# Python Environment
+
+1. `python -m venv name`
+2. `name\scripts\activate`
+3. `pip freeze > requirements.txt`
+4. `pip install -r requirements.txt`
+
 # ORM - Object Relational Mapping
 
 1. convertion of relational database data into objects oriented programming language
